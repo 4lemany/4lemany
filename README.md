@@ -7,7 +7,7 @@
 </div>
 <div align="center">
 <h1 align="center"><div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=👋+Hola%2C+soy;💼+Recursos+Humanos+%7C+Inteligencia+Artificial;🚀+Aprender+%2B+Crear+%2B+Compartir" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=👋+Hola%2C+soy;💼+         Recursos+Humanos+%7C+Inteligencia+Artificial;🚀+Aprender+%2B+Crear+%2B+Compartir" alt="Typing SVG" />
 </div>
 <a href="https://www.linkedin.com/in/adri%C3%A1n-alemany-mart%C3%ADnez-97202a227?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAxo%2BRs4YTdKi2Oum2EuD4w%3D%3D">       Adrián Alemany</a> 👋</h1>
 <p align="center">
